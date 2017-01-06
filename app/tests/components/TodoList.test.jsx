@@ -19,7 +19,7 @@ it('should exist', ()=>{
     it('should render one Todo component for each Todo item', ()=>{
         var todos = [{
             id:1,
-            teaxt:'Check mail',
+            text:'Check mail',
             completed: false,
             completedAt: undefined,
             createdAt: 500
