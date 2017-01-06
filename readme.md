@@ -4,6 +4,6 @@
 <li>React.js</li>
 <li>Redux</li>
 <li>ES6</li>
-<li>Firebase</li<
+<li>Firebase</li>
 <li>Foundation</li>
 </ol>
